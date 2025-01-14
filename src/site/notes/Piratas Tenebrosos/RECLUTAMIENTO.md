@@ -34,3 +34,5 @@ Las sesiones serán auto-conclusivas, partiendo desde el puerto de Nassau y fina
 Lo que se descubra o suceda en cada sesión tendrá repercusión en las siguiente. Dependerá de vosotras lo que queráis contar en la taverna del pueblo o anotar en el diario de abordo. 
 
 Aquí el [[Piratas Tenebrosos/The Dark Caribbean-Map\|The Dark Caribbean-Map]]
+
+![World_background.png](/img/user/Piratas%20Tenebrosos/attachments/World_background.png)
