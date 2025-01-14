@@ -23,3 +23,4 @@ darkMode: falsemarker: default,-6.2989501953125,11.29644775390625,Tortuga,,,
 
 
 
+![TDC - Dark Caribbean Map 1.31.24.jpg](/img/user/Piratas%20Tenebrosos/attachments/TDC%20-%20Dark%20Caribbean%20Map%201.31.24.jpg)
