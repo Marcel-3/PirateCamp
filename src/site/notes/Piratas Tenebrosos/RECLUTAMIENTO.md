@@ -37,6 +37,7 @@ Aquí el [[Piratas Tenebrosos/The Dark Caribbean-Map\|The Dark Caribbean-Map]]
 
 ![World_background.png](/img/user/Piratas%20Tenebrosos/attachments/World_background.png)
 
+```
 <script>
 	import { Map, TileLayer, Marker, Popup } from 'sveaflet';
 </script>
@@ -52,3 +53,4 @@ Aquí el [[Piratas Tenebrosos/The Dark Caribbean-Map\|The Dark Caribbean-Map]]
 		<Marker latLng={[51.505, -0.09]} />
 	</Map>
 </div>
+```
