@@ -31,7 +31,7 @@ Bienvenidos piratas, bucaneros, filibusteros y demás canallas del caribe tenebr
 ¿Como funciona esto?
 Se van a proponer varias fechas para jugar. Apuntaros a las que queráis. 
 Las sesiones serán auto-conclusivas, partiendo desde el puerto de Nassau y finalizando la sesión de vuelta al mismo. Podéis jugar una sola sesión o todas las que queráis. 
-Lo que se descubra o suceda en cada sesión tendrá repercusión en las siguiente. Dependerá de vosotras lo que queráis contar en la taverna del pueblo o anotar en el diario de abordo. 
+Lo que se descubra o suceda en cada sesión tendrá repercusión en las siguiente. Dependerá de vosotras lo que queráis contar en la taberna del pueblo o anotar en el diario de navegación. 
 
 Aquí el [[Piratas Tenebrosos/The Dark Caribbean-Map\|The Dark Caribbean-Map]]
 
